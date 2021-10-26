@@ -1,6 +1,7 @@
 # flood fill recursivo
 
   
+
 - [ ] Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionada no Universidade Tecnológica Federal do Paraná - UTFPR campus Toledo no período letivo de 2021/2.
 
 ## Integrantes
@@ -13,3 +14,5 @@
 ## Procedimento para clonar o repositório
 
     git clone https://github.com/willHub99/filtro-da-media.git
+
+ - Alterar INPUT_IMAGE  =  'nome.extensão' para realizar testes com outras imagens
